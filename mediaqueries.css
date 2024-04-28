@@ -3,7 +3,7 @@
         height: 83vh;
         margin-bottom: 6rem;
     }
-    .about-containers {
+    .about-container {
         flex-wrap: wrap;
     }
 }
@@ -30,7 +30,7 @@
         height: fit-content;
     }
     section {
-margin: 0 5%;
+        margin: 0 5%;
     }
     .section__pic-container {
         width: 275px;
